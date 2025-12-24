@@ -1,0 +1,27 @@
+{
+    
+   "products": [
+        {
+            "id": 1,
+            "name": "The Great Gatsby",
+            "description": "A classic novel by F. Scott Fitzgerald.",
+            "price": 10.99,
+            "category_id": 1
+        },
+        {
+            "id": 2,
+            "name": "Wireless Headphones",
+            "description": "Noise-cancelling over-ear headphones.",
+            "price": 59.99,
+            "category_id": 2
+        },
+        {
+            "id": 3,
+            "name": "Men's T-Shirt",
+            "description": "100% cotton, available in various sizes.",  
+            "price": 15.99,
+            "category_id": 3
+        }
+    ]
+}
+    
